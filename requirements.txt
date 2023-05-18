@@ -1,0 +1,7 @@
+Flask
+Pillow
+torch
+torchvision
+numpy
+segmentation-models-pytorch
+pytorch-lightning
