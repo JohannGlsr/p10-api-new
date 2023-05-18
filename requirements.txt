@@ -1,4 +1,5 @@
 Flask
+gunicorn
 Pillow
 torch
 torchvision
