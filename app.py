@@ -125,4 +125,4 @@ def flip_vertical():
     return flipped_image_bytes, 200, {'Content-Type': 'image/jpeg'}
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
