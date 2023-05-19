@@ -124,5 +124,5 @@ def flip_vertical():
     flipped_image_bytes.seek(0)  # Place le curseur au début des données
     return flipped_image_bytes, 200, {'Content-Type': 'image/jpeg'}
 
-if __name__ == '__main__':
-    app.run(debug=True)
+#if __name__ == '__main__':
+#    app.run(debug=True)
