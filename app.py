@@ -7,7 +7,7 @@ import segmentation_models_pytorch as smp
 from pytorch_lightning import LightningModule
 import multiprocessing
 from io import BytesIO
-
+#app
 app = Flask(__name__)
 
 def create_architecture(archi_name, encoder_name, encoder_weights):
