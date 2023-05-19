@@ -2,7 +2,6 @@ from flask import Flask, request, jsonify
 from PIL import Image
 import torch
 from torchvision import transforms
-import matplotlib.pyplot as plt
 import numpy as np
 import segmentation_models_pytorch as smp
 from pytorch_lightning import LightningModule
