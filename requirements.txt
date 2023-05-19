@@ -2,7 +2,7 @@ Flask
 gunicorn
 Pillow
 torch==2.0.0
-torchvision==0.15.0
+torchvision
 numpy
 segmentation-models-pytorch
 pytorch-lightning
