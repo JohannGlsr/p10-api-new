@@ -1,0 +1,11 @@
+Flask
+Pillow
+torch
+torchvision
+numpy
+segmentation-models-pytorch
+pytorch-lightning
+opencv-python
+tqdm
+metaseg
+collections-counter
