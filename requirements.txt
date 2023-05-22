@@ -1,9 +1,0 @@
-Flask
-gunicorn
-uvicorn
-Pillow
-torch==2.0.0
-torchvision
-numpy
-segmentation-models-pytorch
-pytorch-lightning
